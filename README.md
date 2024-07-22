@@ -52,4 +52,6 @@ public class UnitConverter {
 # Run the Program:
 
 - **In your code editor, find the option to run or execute the code. This will start the program.**
-Follow the prompts that appear in the console.
+- **Follow the prompts that appear in the console.**
+
+  # Output the Result:
